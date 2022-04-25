@@ -1,0 +1,12 @@
+C:\Users\saimon\OneDrive\Documentos\C#\Hospital\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\saimon\OneDrive\Documentos\C#\Hospital\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\saimon\OneDrive\Documentos\C#\Hospital\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\saimon\OneDrive\Documentos\C#\Hospital\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\saimon\OneDrive\Documentos\C#\Hospital\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\saimon\OneDrive\Documentos\C#\Hospital\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\206\source\repos\C-_Hospital\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\206\source\repos\C-_Hospital\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\206\source\repos\C-_Hospital\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\206\source\repos\C-_Hospital\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\206\source\repos\C-_Hospital\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\206\source\repos\C-_Hospital\CapaEntidad\obj\Debug\CapaEntidad.pdb

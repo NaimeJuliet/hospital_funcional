@@ -1,0 +1,36 @@
+﻿body {
+    background-image: url('img/imgHospital.jpg');
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.formulario {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.contenido {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    padding-top: 40px;
+}
+
+.contenedor {
+    background-color: rgba(255, 255, 255, 0.7);
+}
+
+.form-control {
+    width: 200px;
+}
